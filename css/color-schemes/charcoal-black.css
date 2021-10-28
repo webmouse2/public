@@ -1,0 +1,287 @@
+::selection {
+  color: white;
+  background: #546e7a; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  color: white;
+  background: #546e7a; /* Gecko Browsers */
+}
+
+.ip-header .ip-loader svg path.ip-loader-circle{
+  stroke: #546e7a;
+}
+
+.color-overlay {
+    
+}
+
+a:hover {
+    color: #546e7a;
+}
+
+a:active {
+    color: #546e7a;
+}
+
+a:focus{
+  color: #546e7a;
+}
+
+
+.sticky-navigation{
+
+    /*border-bottom: solid 1px #546e7a ;*/
+}
+
+.sticky-navigation .main-navigation .current a{
+    color: #546e7a;
+}
+
+.sticky-navigation .main-navigation li a:hover{
+  color: #546e7a;
+  background: none;
+}
+
+.sticky-navigation .main-navigation li a:active{
+  color: #546e7a;
+  background: none;
+}
+
+.sticky-navigation .main-navigation li a:focus{
+  color: #546e7a;
+  background: none;
+}
+
+.navbar-toggle .icon-bar{
+  background-color: #546e7a;
+}
+
+
+.serv-item .active-item .service-icon{
+  color: #546e7a;
+}
+
+
+ .work-process .itemz .inner-content > i{
+  background-color: #546e7a;
+ }
+
+ .grid figcaption a{
+  background: #546e7a;
+}
+
+.grid figcaption{
+  color: #546e7a;
+}
+
+.input__label--hoshi-color-2::after {
+  border-color: #546e7a;
+}
+
+.scroll-up a:hover,
+.scroll-up a:focus{
+  background-color: #546e7a;
+  opacity: 0.7;
+}
+
+ .pf-filter li.active{
+  color: #546e7a;
+}
+
+.portfolio-hover{
+    background-color: rgba(149,152,162, .8);
+}
+
+.portfolio-project-info li a:hover {
+    color: #546e7a;
+}
+
+.testimonials .owl-theme .owl-controls .owl-page span {
+    background: #546e7a;
+    border-radius: 20%;
+    max-height: 2px;
+}
+
+.clients .owl-theme .owl-controls .owl-page span {
+    background: #546e7a;
+    border-radius: 20%;
+    max-height: 2px;
+}
+
+
+
+.team .owl-theme .owl-controls .owl-page span {
+    background: #546e7a;
+}
+
+.special-package{
+  color: #546e7a;
+}
+
+.special-package .price h2,
+.special-package .price h2 span,
+.special-package .price p 
+{
+  color: #546e7a;
+}
+
+.special-package .hvr-bounce-to-right:before{
+  background: #546e7a;
+}
+
+.special-package .single-package{
+  border: 1px solid #546e7a;
+}
+
+.special-package .btn-price{
+  color: #546e7a;
+  border-color: #546e7a;
+}
+
+.special-package .btn-price:hover{
+  color: #fff;
+}
+
+
+.btn-lines .line-top,
+.btn-lines .line-bottom,
+.btn-lines .line-left,
+.btn-lines .line-right {
+  background: #546e7a;
+}
+
+.funfactor .icon-container i {
+    color: #546e7a;
+}
+
+.blog-title :hover{
+    color: #546e7a;
+}
+
+.blog-post-title :hover {
+    color: #546e7a; 
+}
+
+.author a :hover {
+  color: #546e7a;
+  
+ }
+
+ .read-more :hover{
+    color: #546e7a;
+ }
+
+.blog-list-item-detail a:hover{
+  color: #546e7a;
+}
+
+.blog-item-detail a:hover{
+  color: #546e7a;
+}
+
+.input-field:active{
+  border: 1px solid  #546e7a;
+  border-radius: 5px;
+}
+
+.input-field:focus {
+  border-color: #546e7a;
+}
+
+.clearlist li a:hover  {
+    color: #546e7a;
+}
+
+.tags a:hover {
+   color: #546e7a; 
+  border: 1px solid #546e7a;
+}
+
+.article-nav a i:hover{
+  color: #546e7a;
+}
+
+/**/
+
+.standard-button {
+    background: #B58C82;
+}
+
+.standard-button2 {
+    background:  #546e7a;
+}
+
+.standard-button2:hover {
+    background: #fff;
+}
+
+.btn-primary:focus, 
+.btn-primary:active, 
+.btn-primary.active, 
+.open .dropdown-toggle.btn-primary {
+    background: #005885;
+    border-color: inherit;
+}
+
+.colored-line,
+.colored-line-left {
+    background:  #546e7a;
+}
+
+.main-color {
+    color:  #546e7a;
+}
+
+.theme-color {
+    color:  #546e7a;
+}
+
+.theme-color-bg {
+    background-color:  #546e7a;
+}
+
+.color-bg {
+	background: rgb(127,111,91);
+	color: #FFFFFF;
+}
+
+.contact .contact-button {
+    border: 2px solid #656565;
+    color: #958257;
+}
+
+.contact .contact-button:hover {
+    background:  #546e7a;
+}
+
+.contact .contact-box .input-box:active,
+.contact .contact-box .textarea-box:active,
+.contact .contact-box .input-box:focus,
+.contact .contact-box .textarea-box:focus {
+    border: 1px solid  #546e7a;
+    color: #111;
+}
+
+.social-icons li a:hover {
+    color:  #546e7a;
+}
+
+.comment-reply .contact-box .input-box:active,
+.comment-reply .contact-box .textarea-box:active,
+.comment-reply .contact-box .input-box:focus,
+.comment-reply .contact-box .textarea-box:focus {
+    border: 1px solid  #546e7a;
+    color: #111;
+}
+
+.contact  .contact-address i{
+  color: #546e7a;
+}
+
+.nav-transparent{
+  border-bottom: solid 1px transparent;
+}
+
+.list-tweets li a:hover{
+  color: #546e7a;
+}
